@@ -59,7 +59,7 @@ function Home() {
             </IconContext.Provider>
             <IconContext.Provider value={{ className: "socialMediaButton" }}>
               <a
-                href="https://drive.google.com/file/d/1PvVLMDYUY2jZXOzSZuSjq6aZCjlMbka_/view?usp=share_link"
+                href="https://drive.google.com/file/d/1c9dhD5LEcNIQzOuNKcc1mDjY6MsdI4Pi/view?usp=sharing"
                 download
                 title="Download Resume"
                 target="_blank"
